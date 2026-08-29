@@ -13,6 +13,17 @@ description: >-
   requests and no active API or onboarding pipeline appears to be operating.
   This is an honest historical record; treat any API references as
   unverified / inactive.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
